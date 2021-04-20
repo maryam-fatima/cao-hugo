@@ -1,2 +1,2 @@
 # Output
-![Output](/OS/seecsNust.png)
+![Output](OS/seecsNust.PNG)
